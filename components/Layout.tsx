@@ -1,0 +1,1 @@
+// Mantık index.html içindedir.
